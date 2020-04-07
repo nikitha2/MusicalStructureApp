@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_Image_height">88dp</dimen>
+    <dimen name="list_text_height">44dp</dimen>
+
+    <dimen name="marginsCorners">16dp</dimen>
+</resources>
